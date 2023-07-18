@@ -6,10 +6,7 @@ body{
     font-family:sans-serif;
 }
 /* header css */
-.header_section{
-   
 
-}
 .menu{
     background-color: #34495E;
 }
@@ -64,7 +61,7 @@ body{
 .service_header{
     border-bottom: 2px dashed green;
 }
-.service_header h1{}
+
 .service_item{
    
     width: 100%;
@@ -122,7 +119,7 @@ body{
     font-size: 60px;
     margin-bottom: 20px;
 }
-.item1 img{}
+
 .item1 h3{
     
     color:#520E0E;
